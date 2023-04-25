@@ -3,4 +3,4 @@
 
 Final Project for CSCI/STAT 4990.
 
-Group Members: Jackson Cown, Nachiket Hinge, Eric Vicente, Rowan Wiley
+Group Members: Jackson Cown, Nachiket Hinge, Eric Vicente, Rowan Wiley, Allan Waweru
