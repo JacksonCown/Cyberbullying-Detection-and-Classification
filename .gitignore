@@ -6,3 +6,4 @@
 .ipynb_checkpoints/Data Explore-checkpoint.ipynb
 .ipynb_checkpoints/Roberta Model-checkpoint.ipynb
 models/trained.pt
+models/trained1.pt
